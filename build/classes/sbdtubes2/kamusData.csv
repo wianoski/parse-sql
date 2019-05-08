@@ -1,0 +1,5 @@
+P 2; B 1000#
+KARYAWAN; id_karyawan,nama_karyawan,role; R 100; n 100000; V 8 #
+TRANSAKSI; id_transaksi,tgl_transaksi,item; R 18; n 1500000; V 6 #
+OBAT; id_obat,nama_obat,komposisi,dosis_std; R 13; n 1000; V 7 #
+STOK_OBAT; id_obat,nama_obat,jumlah; R 14; n 5000; V 4 #
